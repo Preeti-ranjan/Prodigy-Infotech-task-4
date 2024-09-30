@@ -1,1 +1,1 @@
-# Prodigy-Infotech-task-4
+# Hand gesture recognition model
